@@ -1,0 +1,11 @@
+C:\Users\sharp\source\repos\errorIsError\errorIsError\bin\Debug\errorIsError.exe.config
+C:\Users\sharp\source\repos\errorIsError\errorIsError\bin\Debug\errorIsError.exe
+C:\Users\sharp\source\repos\errorIsError\errorIsError\bin\Debug\errorIsError.pdb
+C:\Users\sharp\source\repos\errorIsError\errorIsError\obj\Debug\errorIsError.csproj.AssemblyReference.cache
+C:\Users\sharp\source\repos\errorIsError\errorIsError\obj\Debug\errorIsError.csproj.SuggestedBindingRedirects.cache
+C:\Users\sharp\source\repos\errorIsError\errorIsError\obj\Debug\errorIsError.Properties.Resources.resources
+C:\Users\sharp\source\repos\errorIsError\errorIsError\obj\Debug\errorIsError.csproj.GenerateResource.cache
+C:\Users\sharp\source\repos\errorIsError\errorIsError\obj\Debug\errorIsError.csproj.CoreCompileInputs.cache
+C:\Users\sharp\source\repos\errorIsError\errorIsError\obj\Debug\errorIsError.exe
+C:\Users\sharp\source\repos\errorIsError\errorIsError\obj\Debug\errorIsError.pdb
+C:\Users\sharp\source\repos\errorIsError\errorIsError\obj\Debug\errorIsError.KoizumiExe.resources
